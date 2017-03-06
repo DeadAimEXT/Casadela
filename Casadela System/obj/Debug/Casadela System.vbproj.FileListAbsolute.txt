@@ -1,0 +1,627 @@
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\Casadela System.exe.config
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Resources.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela System.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Frminicio.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela System.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela System.exe.licenses
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmclientes.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmcontrato.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmapartamentos.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Frminventario.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmservicio.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmlogeo.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmreportes.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.FrmApartamento.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.FrmCliente.resources
+C:\Users\Asus\Desktop\Casadela System\Casadela System\obj\Debug\Casadela_System.FrmReporte.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\Casadela System.exe.config
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela System.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmlogeo.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.FrmApartamento.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.FrmCliente.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmcontrato.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.Frminventario.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.FrmReporte.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.Frmservicio.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.Resources.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela System.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela System.exe.licenses
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.FrmInicioSesion.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.FrmMenuPrincipal.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.GestionEmpleado.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.ListarEmpleado.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.MenuPrincipal.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System\Casadela System\obj\Debug\Casadela_System.Gestión_Usuario.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\Casadela System.exe.config
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela System.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestionEmpleado.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Gestión_Usuario.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarEmpleado.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarUsuario.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmInicioSesion.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Frmlogeo.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmApartamento.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmCliente.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Frmcontrato.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmMenuPrincipal.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Frminventario.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmReporte.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Frmservicio.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.MenuPrincipal.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Resources.resources
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela System.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Proyectos\Respaldos\Casadela System1\Casadela System\obj\Debug\Casadela System.exe.licenses
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\Casadela System.exe.config
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela System.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmGestiónCliente.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestionEmpleado.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Gestión_Usuario.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarEmpleado.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarUsuario.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmInicioSesion.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Frmlogeo.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmApartamento.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmCliente.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Frmcontrato.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmMenuPrincipal.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Frminventario.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmReporte.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Frmservicio.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.MenuPrincipal.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.Resources.resources
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela System.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela System.exe.licenses
+C:\Users\Asus\Desktop\Proyectos\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestiónCliente.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\Casadela System.exe.config
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela System.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestionEmpleado.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarEmpleado.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmInicioSesion.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.MenuPrincipal.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.Resources.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela System.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela System.exe.licenses
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\Casadela System.exe.config
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestionEmpleado.resources
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarEmpleado.resources
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarInventario.resources
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmInicioSesion.resources
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.MenuPrincipal.resources
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.Resources.resources
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\CDS - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.exe.licenses
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\Casadela System.exe.config
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\Casadela System.exe
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\Casadela System.pdb
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\Casadela System.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestionEmpleado.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarEmpleado.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarInventario.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.FrmInicioSesion.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.MenuPrincipal.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.Resources.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela System.exe.licenses
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarApartamento.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarCliente.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarContrato.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarServicio.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestiónCliente.resources
+C:\Users\Asus\Desktop\CDS - copia - copia\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestiónContrato.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestiónCliente.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestiónContrato.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.GestiónInventario.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarApartamento.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarCliente.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarContrato.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarInventario.resources
+C:\Users\Asus\Desktop\CDS\Casadela System1\Casadela System\obj\Debug\Casadela_System.ListarServicio.resources

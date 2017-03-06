@@ -1,0 +1,3 @@
+primer comando rename archivo .gitignore
+
+git config --global core.excludefile ~/.gitignore.global  = una sola ves para la pc

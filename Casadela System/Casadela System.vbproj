@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{624CD6B0-63A6-4555-B2C8-6A4532526E21}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Casadela_System.My.MyApplication</StartupObject>
+    <RootNamespace>Casadela_System</RootNamespace>
+    <AssemblyName>Casadela System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Casadela System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Casadela System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracion\Formularios\GestionEmpleado.Designer.vb">
+      <DependentUpon>GestionEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Formularios\GestionEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Formularios\GestiónCliente.Designer.vb">
+      <DependentUpon>GestiónCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Formularios\GestiónCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Formularios\GestiónContrato.Designer.vb">
+      <DependentUpon>GestiónContrato.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Formularios\GestiónContrato.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Formularios\GestiónInventario.Designer.vb">
+      <DependentUpon>GestiónInventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Formularios\GestiónInventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarApartamento.Designer.vb">
+      <DependentUpon>ListarApartamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarApartamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarCliente.Designer.vb">
+      <DependentUpon>ListarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarContrato.Designer.vb">
+      <DependentUpon>ListarContrato.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarContrato.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarEmpleado.Designer.vb">
+      <DependentUpon>ListarEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Modulos\conexion.vb" />
+    <Compile Include="Administracion\Vistas\ListarInventario.Designer.vb">
+      <DependentUpon>ListarInventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarInventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarServicio.Designer.vb">
+      <DependentUpon>ListarServicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\Vistas\ListarServicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSetcasadela.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetcasadela.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicioSesion.Designer.vb">
+      <DependentUpon>FrmInicioSesion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicioSesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.vb">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Administracion\Modulos\variables.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administracion\Formularios\GestionEmpleado.resx">
+      <DependentUpon>GestionEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Formularios\GestiónCliente.resx">
+      <DependentUpon>GestiónCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Formularios\GestiónContrato.resx">
+      <DependentUpon>GestiónContrato.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Formularios\GestiónInventario.resx">
+      <DependentUpon>GestiónInventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Vistas\ListarApartamento.resx">
+      <DependentUpon>ListarApartamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Vistas\ListarCliente.resx">
+      <DependentUpon>ListarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Vistas\ListarContrato.resx">
+      <DependentUpon>ListarContrato.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Vistas\ListarEmpleado.resx">
+      <DependentUpon>ListarEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Vistas\ListarInventario.resx">
+      <DependentUpon>ListarInventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\Vistas\ListarServicio.resx">
+      <DependentUpon>ListarServicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicioSesion.resx">
+      <DependentUpon>FrmInicioSesion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DataSetcasadela.xsc">
+      <DependentUpon>DataSetcasadela.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetcasadela.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetcasadela.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSetcasadela.xss">
+      <DependentUpon>DataSetcasadela.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48435-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FLECHA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carpeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archivo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\workers-team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1487036524_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoppingcart_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1487036616_gnome-mime-application-vnd.lotus-1-2-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floppy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14-Delete-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goma-de-borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-circle-blue-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Team-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carpeta %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1487036524_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1487036616_gnome-mime-application-vnd.lotus-1-2-31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1487036542_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liberar-icono-6437-128.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

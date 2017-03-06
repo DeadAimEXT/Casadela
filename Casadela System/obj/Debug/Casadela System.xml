@@ -1,0 +1,321 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Casadela System
+</name>
+</assembly>
+<members>
+<member name="T:Casadela_System.DataSetcasadela">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.EmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.Sp_MostrarEmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.INVENTARIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.CLIENTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.APARTAMENTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.CONTRATODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.EmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.Sp_MostrarEmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.INVENTARIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.CLIENTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.APARTAMENTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.CONTRATORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.EmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.Sp_MostrarEmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.INVENTARIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.CLIENTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.APARTAMENTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadela.CONTRATORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.EmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.Sp_MostrarEmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.INVENTARIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.CLIENTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.APARTAMENTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.CONTRATOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Casadela_System.DataSetcasadelaTableAdapters.TableAdapterManager.UpdateUpdatedRows(Casadela_System.DataSetcasadela,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Casadela_System.DataSetcasadelaTableAdapters.TableAdapterManager.UpdateInsertedRows(Casadela_System.DataSetcasadela,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Casadela_System.DataSetcasadelaTableAdapters.TableAdapterManager.UpdateDeletedRows(Casadela_System.DataSetcasadela,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Casadela_System.DataSetcasadelaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Casadela_System.DataSetcasadelaTableAdapters.TableAdapterManager.UpdateAll(Casadela_System.DataSetcasadela)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Casadela_System.DataSetcasadelaTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Casadela_System.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources._14_Delete_icon__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources._1487036524_3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources._1487036524_31">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources._1487036542_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources._1487036616_gnome_mime_application_vnd_lotus_1_2_3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources._1487036616_gnome_mime_application_vnd1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources._48435_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.archivo__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.carpeta">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.carpeta__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.casa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.casa__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.FLECHA">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.floppy_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.goma_de_borrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.liberar_icono_6437_128">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.search_circle_blue_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.shoppingcart_32x32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.Team_12">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.usuario">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.Usuarios">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Casadela_System.My.Resources.Resources.workers_team">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
